@@ -29,7 +29,7 @@ Ferramentas requeridas
 1. TypeScript
 2. React & Hooks
 3. Redux
-4. Redux Saga
+4. Redux-saga
 5. Styled-components
 6. Jest
 
